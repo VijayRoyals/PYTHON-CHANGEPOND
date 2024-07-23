@@ -1,0 +1,93 @@
+DataTypes:
+    ->Are the categorization or classification of data items
+    ->It represents the kind of value that tells what operations can be performed on a parrticular data
+
+Built in DataTypes:
+    ->Numeric Integer,float and complex
+    ->Sequence type: string,list and tuple
+    ->Boolean
+    ->Set
+    ->Dictonary
+
+Mutable and Imutable objects:
+    1.Mutable objects can change their state or content
+    Ex:list,dict,Set
+    2.Imutable objects cannot change their state or content
+    Ex:Numeric,Float,Boolean,string,Tuple
+
+List :
+    Mutable objects
+    ->is a sequence data type which is used to store collection of data
+    ->ordered
+    -> Allows Duplicate
+
+Tuple : 
+    ->Immutable object
+    ->Used to store the values
+    ->ordered
+
+String :
+    ->Sequence of characters 
+    ->create a string using single quote,double quote or 
+    ->for multiple statement triple quote
+
+#f-string:
+    -> to insert a variable's value into a string,
+    -> place the letter f immediately before opening the quotation mark
+    -> Put braces around the variable names
+    ->Python will replace each variable with its value when string is displayed
+    -> These strings are called f-string
+    ->f-Strings was introduced in python 3.6 
+
+
+range() :
+    ->number of sequence
+    ->start -> default 0
+    ->stop -> excluded
+    ->step -> default 1
+
+
+while :
+    -> while loop is used to execute a block of stattements repeatedly until a given condition is satisfied
+    -> when the condition becomes false ,  the line immediately after the loopin the given program is executed
+   Syntax:
+        while(expression):
+            loop body
+
+
+#membership operators  :
+    -> in (True) if value is found in the sequence
+    -> not in (True) if value is not found in the sequence
+    -> used to test whether a value or variable is in a sequence
+
+
+Dictionary  :
+    ->A dictionary is a collection of key-value pair 
+    ->here , each key is connected to a value
+    ->use a key to access the value
+    ->Key Should be unique
+    ->Mutable Object
+
+
+Set : 
+    -> Collection of items
+    -> enclosed in {}
+    -> each element is separated by , 
+    -> Unordered 
+    -> Mutable
+    -> unique
+    ->It returns the 1st duplicate
+
+
+function :
+    ->A function is a block of code that performs a specific task
+    ->Functions are reusable pieces of code
+    ->They allow you to give a name to a block of statement
+    ->allowing you to run that block of code using specified name anywhere in your code
+    ->this is known as calling the function
+    ->the names given in the function definition are called parameters
+    ->whereas the value you supply to the function call are arguments
+    ->you define a function with def keyword ,then write identifier(name) followed by paranthesis and a Colon
+ 
+Return :
+    -> used to exit from a function and go back to the function caller and return the specific valu eor data item 

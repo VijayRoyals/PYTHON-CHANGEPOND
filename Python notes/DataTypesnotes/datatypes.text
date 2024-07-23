@@ -1,0 +1,36 @@
+Data Types: 
+-> are the categorization or classification  of data items 
+-> it represents the kind of value that tells 
+what operations can be performed on a particular data
+built - in data type: 
+--Numeric -Integer,float and complex 
+-->sequence type: string , list,  
+#Mutable object: mutable objects can change their state or content 
+Example: list,dict,set 
+#Immutable Objects:Can't Change their content on state  
+Example: Numeric like int, float,bool, str,tuple 
+
+
+
+#List:
+->mutable object 
+-> it is a sequence datatypes is used to store the collection of data 
+
+
+#Tuple 
+->immutable object 
+-> used to store3 the values 
+-> ordered 
+
+
+len(mixed_type)
+print(ice_cream[2])
+print(ice_cream[-2])
+print(mixed_type[1:3])
+
+
+#String 
+->string is a sequence of characters 
+-> create a string usig single quote,double quote or for multiline statement triple quote 
+->immutable 
+->ordered 

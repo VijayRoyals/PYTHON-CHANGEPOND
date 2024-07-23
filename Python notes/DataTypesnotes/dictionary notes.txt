@@ -1,0 +1,4 @@
+Dictionary 
+-> A dicstionary is a collection of a key value pair 
+-> here, each key is connected to a value 
+-> use a key to access the value 
