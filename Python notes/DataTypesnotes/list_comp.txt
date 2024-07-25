@@ -1,0 +1,13 @@
+->map, filter and reduce are paradigms of functional progeramming 
+-> map and filter come built-in with python(built-in functions) 
+-> reduce, needs to be imported as it resides in the functools module 
+
+->syntax 
+->filter(function,iterable) 
+->function : ite test if each element of a sequence True or Not 
+->sequence: wheich needs to be filtered , it can be list,sets,tuples or containers orf any iterators 
+
+->Lambda functions(Anonymous function) -> function without a name 
+->this function can take any number of arguments but only 
+one expression, which is evaluated and returned 
+Syntax: lambda 
