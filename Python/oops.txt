@@ -1,0 +1,15 @@
+->our program around functions i.e Blocks of statements tahta manipulate data.This is called the Procedure-orented way of programming. 
+->There is another way of organizing your program which is to combine data and functionality and warp it inside something called an object. This is called as object-oriented programming 
+OOP' s Concepts: 
+-> class 
+->objects 
+->polymorphism 
+->Encapsulation 
+->Inheritance 
+->Data Abstraction 
+
+
+Class: 
+-> class is a collection of objects 
+-> A class is a bluepring for how something should be defined. 
+->Classes define the functions called methods, which identify the behaviours that an object created from the class can perform with its data 
